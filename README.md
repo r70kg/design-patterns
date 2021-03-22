@@ -1,7 +1,7 @@
 # design-patterns
-js常用设计模式
+## js常用设计模式
 
-## 建造者模式  
+### 建造者模式  
 
 [建造者模式 https://github.com/r70kg/design-patterns/blob/main/Builder](https://github.com/r70kg/design-patterns/blob/main/Builder)  
 
