@@ -14,6 +14,13 @@
   
     
       
-        
+
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
         
 #### [腾讯团队常用设计模式 http://www.alloyteam.com/2012/10/common-javascript-design-patterns/](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/r)
